@@ -5,10 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h2 className="App-header-title">
-          <b>DNotes</b>
-          <small><u>The blog of Dharit Parmar</u></small>
-        </h2>
+        <h2 className="App-header-title">DNotes</h2>
+        <small><u>The blog of Dharit Parmar</u></small>
         <a>
           Under construction, till then connect to Dharit through his linkedin handle below. 
         </a>
