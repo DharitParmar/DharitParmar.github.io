@@ -9,11 +9,11 @@ function App() {
         <a>
           Under construction. 
         </a>
-      </header>
-      <div>
         <a className="App-link"
-          href="https://www.linkedin.com/in/dharit-parmar/">Let's connect</a>
-      </div>
+          href="https://www.linkedin.com/in/dharit-parmar/">Connect over linked-in
+          </a>
+      </header>
+       
     </div>
   );
 }
