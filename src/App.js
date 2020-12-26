@@ -10,6 +10,10 @@ function App() {
           Under construction. 
         </a>
       </header>
+      <div>
+        <a className="App-link"
+          href="https://www.linkedin.com/in/dharit-parmar/">Let's connect</a>
+      </div>
     </div>
   );
 }
