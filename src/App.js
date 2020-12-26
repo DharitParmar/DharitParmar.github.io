@@ -5,10 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        {/* <img src={logo} className="App-logo" alt="logo" /> */}
         <h2 className="App-header-title">
-          <b>DNotes |</b>
-          <u>Dharit parmar's personal blog</u>
+          <b>DNotes</b>
+          <small><u>The blog of Dharit Parmar</u></small>
         </h2>
         <a>
           Under construction, till then connect to Dharit through his linkedin handle below. 
